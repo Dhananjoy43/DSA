@@ -1,4 +1,6 @@
 /*
+    Print first n fibonacci numbers
+
     Question Link: https://www.naukri.com/code360/problems/print-fibonacci-series_7410103?topList=ninjas-sde-sheet&problemListRedirection=true&search=fib&leftPanelTabValue=SUBMISSION
 
     Example:
